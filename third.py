@@ -125,3 +125,5 @@ stuti("Stuti")
 # print("mul = " , c)
 # print("div = " , d)
 # print("sqr = " , e)
+
+## made changes
