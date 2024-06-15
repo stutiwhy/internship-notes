@@ -1,0 +1,6 @@
+new content written in r+ mode.
+this is not my file.
+this is definitely not my file.
+this is absolutely not my file.
+this is definitely absolutely not my file.
+this is appended line.

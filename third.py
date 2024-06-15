@@ -59,8 +59,8 @@ stuti("Stuti")
 
 # print(abs(-10.8375))
 
-# def greet(name,msg):
-#     print("Hallo," , name + '. ' + msg)
+def greet(name,msg):
+    print("Hallo," , name + '. ' + msg)
 
 # greet("Stuti","Guten morgen")
 # greet("Krishita","How are you?")
@@ -125,5 +125,3 @@ stuti("Stuti")
 # print("mul = " , c)
 # print("div = " , d)
 # print("sqr = " , e)
-
-## made changes
