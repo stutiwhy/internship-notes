@@ -3,15 +3,15 @@
 Installation of NodeJS
 
 Primitive datatypes in JS:
- Number
- String
- null
- Boolean
- undefined
+> Number
+> String
+> null
+> Boolean
+> undefined
 
 Non-primitive datatypes in JS:
- Array(welcome back, buddy! you weren't missed at all)
- Objects(similar to dicts in python)
+> Array(welcome back, buddy! you weren't missed at all)
+> Objects(similar to dicts in python)
 
 Running JS in browser
 
@@ -33,7 +33,7 @@ Difference between "let" and "var"
 "let" is used only once in the start when initializing
 the respective variable can be reassigned a new value without using "let"
 if you use it again, you will get error
-block scope
+local/functional scope
 
 "var" is used always everywhere reassignment stuff.
 var does not show errors because it is a little b
@@ -44,16 +44,16 @@ on the damn projector
 i like him
 
 Array stuff:
- Indexing
- Reassigning values
- printing it bla bla
+> Indexing
+> Reassigning values
+> printing it bla bla
 
 Object:
- it is basically dictionary in JS.
- even syntax is same
- i like it
- values of keys can be arrays 
- values of keys which are arrays can be updates, even index wise
+> it is basically dictionary in JS.
+> even syntax is same
+> i like it
+> values of keys can be arrays 
+> values of keys which are arrays can be updates, even index wise
 
 There's a lot of undefined stuff happening here.
 JS is very easy going kind of language.

@@ -1,0 +1,64 @@
+21/06/2024: MERN Stack - Day 2
+
+JS is single threaded behavior language.
+
+##backend thing
+
+user ----> requests ----> call stack ----> event loop : blocking/synchronous req or non-blocking/asynchronous req ----> user/web api
+
+blocking : resolved in event loop and sends the response to user
+non blocking : req sent to web api, gets resolved there, then pops out through message queue
+
+event loop functions?:
+set timeout
+process something?
+callback
+
+##code execution:
+
+> memory block
+all variable and function and prototypes(classes) definition
+memory allocation
+values replace undefined memory allocated during execution
+stores function code
+
+> code block/thread of execution
+function call
+reads variable definition and the undefined in memo is replaced
+console.log stuff
+
+variable is a container that can store any type of data
+
+types of variable declaration:
+let : local scope / functional scope
+var : global scope
+const : local scope
+
+local scope is defined inside functions
+global scope is defined outside so we have the same value of it everywhere
+
+datatypes:
+> primitive
+> non-primitive
+
+all datatypes 
+some falsy truthy i didn't understand
+
+nested objects(dicts)
+
+JS is also apparently very flaky language. kabhi kabhi kuch hota hai kabhi nahi hota hai
+
+operators: sabkuch bla bla
+
+> comparison operators :
+== checks only value
+=== checks value with datatype
+!= check not equal value
+!== checks not equal with datatype
+
+array functions
+> filter
+> sort
+> includes
+
+ternary operator ? :
