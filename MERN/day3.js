@@ -88,7 +88,7 @@
 //     console.log(a)
 // }
 
-// lexical scope
+// // lexical scope
 function outer(){
     let a = 100
     function inner(){
@@ -97,4 +97,5 @@ function outer(){
     }
     inner()
 }
+// inner()
 outer()

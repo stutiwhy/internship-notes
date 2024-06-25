@@ -1,0 +1,24 @@
+25/06/2024: MERN Stack - Day 4
+
+congratulations to sagar sir for making it to day 2 of him being teacher with us.
+
+### arrays in javascript
+>> like python, it can hold values of different types.
+>> we can create empty arrays of a specific size by calling the Array class constructor with 'new' keyword.
+
+>> array methods:
+-> forEach(value, index) method - goes through all elements of array but cannot return anything.
+-> map(value, index) method - same as forEach but can return value as array.
+-> filter()  method - returns new array based on condition.
+-> sort() method - this is basically a mess. you have to create function for this to pass as an argument for it to do its thing.
+-> reduce(result, value) method - we can reduce the whole array into one single value based on an operation.
+-> push(value) - appending to array.
+-> unshift(value) - first mein jata value.
+-> pop() - always last wala udata hai.
+-> shift() - pehla udane ke liye.
+-> arr1.concat(arr2) - you know how it is.
+-> slice(index1, index2) - index1 + next, not index2 in new arrays.
+-> indexOf(element) - returns index of the element.
+-> lastIndexOf(element) - in case of multiple copies of elements in the array, this returns the index of the same element in the very end.
+-> every() - like AND logical operation.
+-> some() - like OR logical operation

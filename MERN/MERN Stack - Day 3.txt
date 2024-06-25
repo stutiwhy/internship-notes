@@ -6,8 +6,8 @@ HTML : skeleton
 CSS : Makeup of skeleton
 JS : Functionality
 
-let - default global
-var - global scope
+let 
+var - default global scope
 const - value will never change
 
 arithmetic operators : + - * / ++ -- ^
@@ -25,9 +25,10 @@ bitwise operators
 ### jump statements
 >> break - terminates the loop completely
 >> continue - skips the current iteration of the loop
+>> return - used in functions
 
 ### function
->> function name
+>> function name - default hoisted -  can be called even before definition - global definition
 >> nameless function (stored in a keyword)
 >> arrow function
 >> immediately invoked function expressions (iife)
