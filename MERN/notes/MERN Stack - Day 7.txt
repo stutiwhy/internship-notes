@@ -1,0 +1,14 @@
+28/06/2024: MERN Stack - Day 7
+
+### callback hell / pyramid of doom
+>>> a function call in a function call in a function call in a function call in a function call in a func
+
+### setTimeout() - executes function in it after the mentioned miliseconds.
+
+### promises
+> solution to callback hell
+> it is an object of Promise class.
+
+### prototype
+
+### 

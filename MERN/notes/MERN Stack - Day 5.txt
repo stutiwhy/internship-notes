@@ -1,0 +1,43 @@
+26/06/2024: MERN Stack - Day 5
+
+>> array methods:
+find(value) - returns the value if it exists in the array
+
+### objects in JS (dictionary)
+>> two ways to access object values through keys
+-> dot
+-> square brackets(need to put key in single quotes)
+
+>> nested objects
+-> access value of nested object through dot notation. 
+
+>> even functions can be stored as values in objects.
+-> can return function. 
+-> can directly call function from outside.
+
+>> Object.keys(obj) - returns all the keys from an object.
+
+>> Object.values(obj) - returns all the values from an object.
+
+>> for of loop does not work directly on objects but if you use it with keys and values methods then it will work.
+
+### string
+>> it is a collection of characters.
+
+>> it is ordered.
+
+>> string methods :
+-> length()
+-> chatAt() - same as box bracket.
+-> charCodeAt() - unicode of number and ASCII of alphabets.
+-> indexOf(char,start_index) - returns index of char.
+-> concat() - string concatenation
+-> includes(char, start_index) - checks if a string has the char present in it.
+-> split(seperator) : returns separated array.
+-> slice()
+-> lastIndexOf() - you know how it is.
+-> replace(replacee, replacer)
+-> trim() - trims unnecessary spaces from start and end.
+-> startsWith() 
+-> endsWith()
+-> repeat()

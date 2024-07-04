@@ -1,0 +1,35 @@
+27/06/2024: MERN Stack - Day 6
+
+### error
+>>> types :
+-> compile time error : syntax error.
+   easiest to handle.
+-> run-time error : divide by zero, file not found.
+   hardest to handle.
+-> logical error : wrong logic; incorrect output.
+
+>>> how to handle errors
+-> try - catch blocks
+
+-> try : risky code
+-> catch(object) - what to do (print) after error occurred.
+-> object : object.name, object.message
+
+-> throw is raise of JS.
+-> throw new ErrorName(message)
+-> new keyword is used to make an object of the error.
+-> catch(obj)
+
+>>> error class : parent of all errors
+-> just put error class in place of ErrorName because whatever.
+
+### user-defined exceptions
+>>> how to make
+-> extend from Error class
+-> constructor(message)
+-> super(msg) : super keyword used to borrow logic of printing error message.
+
+### html
+>>> link css file using link tag in head
+>>> link js file using script tag in body
+>>> beside h1 we can write either id or class = bla bla whatever name. using that name we can specifically style that thing.
